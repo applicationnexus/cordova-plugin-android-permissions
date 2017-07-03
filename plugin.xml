@@ -11,7 +11,7 @@
   <author>Jason Yang</author>
 
   <engines>
-    <engine name="cordova" version=">=5.0.0"/>
+    <engine name="cordova" version=">=3.5.0"/>
   </engines>
 
   <!-- android -->
